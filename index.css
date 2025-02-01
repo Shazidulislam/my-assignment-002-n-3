@@ -1,0 +1,54 @@
+.sora {
+  font-family: "Sora", serif;
+  font-style: normal;
+}
+.banner{
+  background-image: url(./c2-assets/animation-1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  animation: loop-animation 50s infinite;
+}
+
+
+@keyframes loop-animation {
+  0%{
+    background-image: url(./c2-assets/animation-1.jpg);
+
+  }
+  10%{
+    background-image: url(./c2-assets/animation-2.jpg);
+  }
+  20%{
+    background-image: url(./c2-assets/animation-3.jpg);
+  }
+  
+  30%{
+    background-image: url(./c2-assets/animation-5.jpg);
+  }
+  40%{
+    background-image: url(./c2-assets/animation-6.jpg);
+  }
+  60%{
+    background-image: url(./c2-assets/animation-7.jpg);
+  }
+  70%{
+    background-image: url(./c2-assets/animation-8.jpg);
+  }
+  80%{
+    background-image: url(./c2-assets/animation-9.jpg);
+  }
+  90%{
+    background-image: url(./c2-assets/animation-10.jpg);
+  }
+  100%{
+    background-image: url(./c2-assets/animation-11.jpg);
+  }
+  
+  
+  
+  
+  
+  
+}
