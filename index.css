@@ -7,8 +7,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  
-  animation: loop-animation 80s infinite;
+  animation: loop-animation 200s infinite linear;
 }
 
 
