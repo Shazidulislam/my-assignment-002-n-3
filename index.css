@@ -8,7 +8,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   
-  animation: loop-animation 50s infinite;
+  animation: loop-animation 80s infinite;
 }
 
 
@@ -43,7 +43,7 @@
     background-image: url(./c2-assets/animation-10.jpg);
   }
   100%{
-    background-image: url(./c2-assets/animation-11.jpg);
+    background-image: url(./c2-assets/animation-1.jpg);
   }
   
   
